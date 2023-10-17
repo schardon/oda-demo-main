@@ -1,4 +1,4 @@
-## ODA : Oracle Digital Assistant
+## ODA - Oracle Digital Assistant 
  
 Template Training ----- création de bots par les utilisateurs professionnels
 
