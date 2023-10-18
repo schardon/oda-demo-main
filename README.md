@@ -17,17 +17,17 @@ Dans ce lab, vous allez créer un bot de questions-réponses basé sur le templa
 
 Pour commencer :
 
-1 - Access a l instance  Oracle Digital Assistant instance - Via vos comptes crées prealablement
+1 - Access a l instance  Oracle Digital Assistant instance - Via vos comptes crées préalablement
 
-Se logger sur : 
---> Sign In ---> Tenancy, taper palexposa 
+Se logger sur : [Oda Digital Assistant](https://oda-d610850f2cfb4e35b8f39e66a0c70295-da4.data.digitalassistant.oci.oraclecloud.com/botsui/)
+--> Sign In ---> Tenancy, taper **palexposa**
 
-2- Le document principale est : XXXXX Template.pdf
+2- Le document principale est : **PalexpoTemplate.pdf**
 
 Voici les étapes de ce lab :
-- Créez votre contenu à l'aide d'un exemple de fichier Q&A, TÉLÉCHARGEZ le sur votre ordinateur portable à partir d'ici XXXX_QnA.pdf, vous le téléchargerez sur la plateforme ODA.
+- Créez votre contenu à l'aide d'un exemple de fichier Q&A (**QnA_Palexpo.pdf**) , TÉLÉCHARGEZ le sur votre ordinateur portable à partir d'ici XXXX_QnA.pdf, vous le téléchargerez sur la plateforme ODA.
 
-- Ajoutez les questions et les réponses au bot à partir du fichier HCM_QnA.pdf téléchargé.
+- Ajoutez les questions et les réponses au bot à partir du fichier **QnA_Palexpo.pdf** téléchargé.
 
 - Formez votre Bot
 
