@@ -1,12 +1,12 @@
 ## ODA - Oracle Digital Assistant 
  
-Template Training ----- création de bots par les utilisateurs professionnels
+Template de formation ----- création de bots par des utilisateurs 
 
 Il s'agit d'un lab pour commencer à travailler avec Oracle Digital Assistant en utilisant un template.
 
 Oracle Digital Assistant est un environnement permettant de créer des assistants numériques, qui sont des interfaces utilisateur pilotées par l'intelligence artificielle (IA) qui aident les utilisateurs à accomplir une variété de tâches dans des conversations en langage naturel. Les assistants numériques se composent d'une ou plusieurs compétences, qui sont des chatbots individuels qui se concentrent sur des types de tâches spécifiques.
 
-Dans ce laboratoire, vous allez créer un bot de questions-réponses basé sur le template fournit. Ce bot sera capable de :
+Dans ce lab, vous allez créer un bot de questions-réponses basé sur le template fournit. Ce bot sera capable de :
 
 - Message de bienvenue lors d'une connexion d'un l'utilisateur 
 
@@ -14,13 +14,12 @@ Dans ce laboratoire, vous allez créer un bot de questions-réponses basé sur l
 
 - Montrer différentes options lorsque la question n'a pas été clairement spécifiée par l'utilisateur
 
-De quoi avez-vous besoin ?
 
-1 - Access a l instance  Oracle Digital Assistant instance
-Via vos comptes crées
+Pour commencer :
 
-Se logger sur :
+1 - Access a l instance  Oracle Digital Assistant instance - Via vos comptes crées prealablement
 
+Se logger sur : 
 --> Sign In ---> Tenancy, taper palexposa 
 
 2- Le document principale est : XXXXX Template.pdf
@@ -38,10 +37,10 @@ Voici les étapes de ce lab :
 
 - Modifier le menu
 
-- Fonctionnalité de retour d'information (facultatif si le temps le permet)
+- Fonctionnalité de retour d'information (facultatif, si le temps le permet)
 
-- Réponses conditionnelles (facultatif si suffisamment de temps)
+- Réponses conditionnelles (facultatif, si suffisamment de temps)
 
-- Utiliser le SDK Web (Facultatif si le temps est suffisant)
+- Utiliser le SDK Web (Facultatif, si le temps est suffisant)
 
 
